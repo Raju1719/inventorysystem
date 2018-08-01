@@ -1,0 +1,64 @@
+*{
+	margin:0px auto;
+	 font-family: 'calibri';
+
+}
+body{
+	 background: #333333;
+}
+
+.relative{
+	position:relative;
+}
+.t_white{
+	color:#fff;
+}
+.b_blue{
+	
+	background-color:#00aeef;
+}
+
+ul.admin-menu a {
+  position: relative;
+  display: block;
+  padding: 3px 15px;
+   border-radius: 0px;
+}
+
+ul.nav.nav-pills.nav-stacked.admin-menu {
+  margin-bottom: 10px;
+}
+.desc{
+	height: 40px;
+overflow: hidden;
+display: inline-block;
+} 
+a.abtn {
+display: inline-block;
+width: 90px;
+padding: 2px 5px;
+text-align: center;
+margin: 2px;
+border-radius: 3px;
+text-decoration: none;
+}
+
+.filterable-panel
+{
+	overflow: auto; height:500px;
+}
+
+.filterable-panel form
+{
+	width: 500px;
+}
+
+.submit input
+{
+	background-color: #3379b8;
+	color: #fff;
+}
+
+.modal-header .close {
+    margin-top: -22px;
+}
